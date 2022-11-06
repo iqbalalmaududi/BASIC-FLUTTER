@@ -1,2 +1,2 @@
 # BASIC-FLUTTER
-basic flutter code writen by iqbal almaududi
+basic flutter code and app writen by iqbal almaududi
